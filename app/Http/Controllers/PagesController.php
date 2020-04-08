@@ -11,7 +11,12 @@ class PagesController extends Controller
     public function index(){
 
         $images = [
-            'bollywood'=> ['bhuladunga.jpg' , 'ikvari.jpg','bang.jpg', 'tumhiana.jpg', 'chal.jpg'],
+            'new release'=> ['1.jpg' , '2.jpg','3.jpg', '4.jpg', '5.jpg', '6.jpg', '7.jpg'],
+            'pop' =>['1.jpg', '2.jpg', '3.jpg', '4.jpg','5.jpg', '6.jpg', '7.jpg'],
+            'hindi song' => ['1.jpg', '2.jpg', '3.jpg', '4.jpg','5.jpg', '6.jpg'],
+            'top hits' => ['1.jpg', '2.jpg', '3.jpg', '4.jpg','5.jpg', '6.jpg'],
+            'punjabi' => ['1.jpg', '2.jpg', '3.jpg', '4.jpg','5.jpg', '6.jpg'],
+            'loved song' => ['1.jpg', '2.jpg', '3.jpg', '4.jpg','5.jpg', '6.jpg'],
         ];
         return view('pages.index')->with('images',$images);
     }

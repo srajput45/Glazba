@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="player"  style="background-image: url('images/bollywood/bhuladunga.jpg')">
+        <div class="player"  style="background-image: url('images/new release/2.jpg')">
           <div class="like waves-effect waves-light">
             <i class="icon-heart"></i>
           </div>

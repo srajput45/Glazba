@@ -1,208 +1,197 @@
-<footer class="page-footer font-small stylish-color-dark pt-4">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <footer class="page-footer font-small stylish-color-dark pt-4">
 
-    <!-- Footer Links -->
     <div class="container text-center text-md-left">
   
-      <!-- Grid row -->
       <div class="row">
   
-        <!-- Grid column -->
         <div class="col-md-2 mx-auto">
   
-            <!-- Links -->
-            <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+
+            <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Top Artists</h5>
     
             <ul class="list-unstyled">
               <li>
-                <a href="#!">Link 1</a>
+                <a href="#!">Arijit Singh</a>
               </li>
               <li>
-                <a href="#!">Link 2</a>
+                <a href="#!">Justin Bieber</a>
               </li>
               <li>
-                <a href="#!">Link 3</a>
+                <a href="#!">Diljit Dosanjh</a>
               </li>
               <li>
-                <a href="#!">Link 4</a>
+                <a href="#!">Sonu Nigam</a>
               </li>
               <li>
-                <a href="#!">Link 1</a>
+                <a href="#!">Lata Mangeshkar</a>
               </li>
               <li>
-                <a href="#!">Link 2</a>
+                <a href="#!">Shreya Ghoshal</a>
               </li>
               <li>
-                <a href="#!">Link 3</a>
+                <a href="#!">Ed Sheeran</a>
               </li>
               <li>
-                <a href="#!">Link 4</a>
+                <a href="#!">Sanam Puri</a>
               </li>
             </ul>
     
           </div>
-        <!-- Grid column -->
   
         <hr class="clearfix w-100 d-md-none">
   
-        <!-- Grid column -->
         <div class="col-md-2 mx-auto">
   
-          <!-- Links -->
-          <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+          <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Top Actors</h5>
   
           <ul class="list-unstyled">
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">Deepika Padukone</a>
             </li>
             <li>
-              <a href="#!">Link 2</a>
+              <a href="#!">Salman Khan</a>
             </li>
             <li>
-              <a href="#!">Link 3</a>
+              <a href="#!">Varun Dhawan</a>
             </li>
             <li>
-              <a href="#!">Link 4</a>
+              <a href="#!">Alia Bhatt</a>
             </li>
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">Ranbir Kapoor</a>
             </li>
             <li>
-              <a href="#!">Link 2</a>
+              <a href="#!">Anushka Sharma</a>
             </li>
             <li>
-              <a href="#!">Link 3</a>
+              <a href="#!">Sunny Leone</a>
             </li>
             <li>
-              <a href="#!">Link 4</a>
+              <a href="#!">Allu Arjun</a>
             </li>
           </ul>
   
         </div>
-        <!-- Grid column -->
   
         <hr class="clearfix w-100 d-md-none">
   
-        <!-- Grid column -->
         <div class="col-md-2 mx-auto">
   
-          <!-- Links -->
-          <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+          <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Top Songs</h5>
   
           <ul class="list-unstyled">
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">English Songs</a>
             </li>
             <li>
-              <a href="#!">Link 2</a>
+              <a href="#!">Tamil Songs</a>
             </li>
             <li>
-              <a href="#!">Link 3</a>
+              <a href="#!">Telugu Songs</a>
             </li>
             <li>
-              <a href="#!">Link 4</a>
+              <a href="#!">Punjabi Songs</a>
             </li>
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">Marathi Songs</a>
             </li>
             <li>
-              <a href="#!">Link 2</a>
+              <a href="#!">Malayalam Songs</a>
             </li>
             <li>
-              <a href="#!">Link 3</a>
+              <a href="#!">Bhojpuri Songs</a>
             </li>
             <li>
-              <a href="#!">Link 4</a>
+              <a href="#!">Kannada Songs</a>
             </li>
           </ul>
   
         </div>
-        <!-- Grid column -->
   
         <hr class="clearfix w-100 d-md-none">
   
-        <!-- Grid column -->
         <div class="col-md-2 mx-auto">
   
-          <!-- Links -->
-          <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+          <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Devotional Song</h5>
   
           <ul class="list-unstyled">
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">Krishna Bhajan</a>
             </li>
             <li>
-              <a href="#!">Link 2</a>
+              <a href="#!">Ganesh Ji Ki Aarti</a>
             </li>
             <li>
-              <a href="#!">Link 3</a>
+              <a href="#!">Mata Ke Bhajan</a>
             </li>
             <li>
-              <a href="#!">Link 4</a>
+              <a href="#!">Mahamrityunjaya Mantra</a>
             </li>
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">Durga Chalisa</a>
             </li>
             <li>
-              <a href="#!">Link 2</a>
+              <a href="#!">Mata Ki Aarti</a>
             </li>
             <li>
-              <a href="#!">Link 3</a>
+              <a href="#!">Om Jai Jagdish Hare</a>
             </li>
             <li>
-              <a href="#!">Link 4</a>
+              <a href="#!">Lakshmi Ji Ki Aarti</a>
             </li>
           </ul>
   
         </div>
-        <!-- Grid column -->
   
         <hr class="clearfix w-100 d-md-none">
   
-        <!-- Grid column -->
         <div class="col-md-2 mx-auto">
+
+          <h5 class="font-weight-bold text-uppercase mt-3 mb-4">All Genere</h5>
   
-          <!-- Links -->
-          <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
-  
-          <ul class="list-unstyled">
+          <ul class="list-unstyled ">
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">Pop</a>
             </li>
             <li>
-              <a href="#!">Link 2</a>
+              <a href="#!">Indie Pop</a>
             </li>
             <li>
-              <a href="#!">Link 3</a>
+              <a href="#!">Rock</a>
             </li>
             <li>
-              <a href="#!">Link 4</a>
+              <a href="#!">Band</a>
             </li>
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">Sad song</a>
             </li>
             <li>
-              <a href="#!">Link 2</a>
+              <a href="#!">Electronic</a>
             </li>
             <li>
-              <a href="#!">Link 3</a>
+              <a href="#!">classical</a>
             </li>
             <li>
-              <a href="#!">Link 4</a>
+              <a href="#!">love</a>
             </li>
           </ul>
   
         </div>
-        <!-- Grid column -->
     
     </div>
-      <!-- Grid row -->
   
     </div>
-    <!-- Footer Links -->
   
     <hr>
   
-    <!-- Call to action -->
     <ul class="list-unstyled list-inline text-center py-2">
       <li class="list-inline-item">
         <h5 class="mb-1">Register for free</h5>
@@ -211,11 +200,10 @@
         <a href="#!" class="btn btn-danger btn-rounded">Sign up!</a>
       </li>
     </ul>
-    <!-- Call to action -->
+    
   
     <hr>
   
-    <!-- Social buttons -->
     <div class=" footer-copyright text-center py-3">
         <div>
             <i class="fa fa-map-marker"></i>
@@ -233,9 +221,6 @@
             <p><a href="mailto:support@glazba.com">support@glazba.com</a></p>
         </div>
     </div>
-    <!-- Social buttons -->
-  
-    <!-- Copyright -->
     <div class="footer-copyright text-center py-3">
         <a style="padding-left:25px;" href='#'><i class="fa fa-facebook"></i></a>
         <a style="padding-left:25px;" href='#'><i class="fa fa-twitter"></i></a>
@@ -245,6 +230,7 @@
         © 2020 Copyright:
       <a href="https://Glazba.com/">Glazba.com</a>
     </div>
-    <!-- Copyright -->
   
   </footer>
+</body>
+</html>
