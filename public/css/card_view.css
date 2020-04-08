@@ -1,0 +1,25 @@
+.category-view-row {
+    background-color: transparent;
+    height: 320px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.category-view-col {
+    display: inline-block;
+}
+
+.category-view-col:hover {
+    position: relative;
+    transform: scale(0.95);
+    transition: 1s;
+}
+
+.category-view-row::-webkit-scrollbar {
+    display: none;
+}
+
+

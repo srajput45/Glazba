@@ -6,6 +6,7 @@
     align-items: center; 
 }
 .container {
+    align-items: inherit;
     display: flex;
     width: 80%;
     flex-direction: column;
@@ -30,7 +31,8 @@ input {
 
 .label-text {
     font-weight: bold;
-    margin: 10px 0;
+    width: fit-content;
+    margin: 10px 0px 0px 0px;
 }
 
 a {
