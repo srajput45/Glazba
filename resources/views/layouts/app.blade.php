@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="/css/card_view.css">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
-<body>
+<body class="custom-body-color">
     <div id="app">
         @include('layouts.navbar');
         <main class="py-4">

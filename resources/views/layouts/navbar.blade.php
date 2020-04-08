@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm navbar-custom">
+<nav class="navbar navbar-expand-sm navbar-custom fixed-top">
   <div class="container">
       <a class="navbar-brand nav-link" href="/">
           <img class="img-responsive" src="{{asset('./images/logo1.png')}}" alt="Glazba"  height="50px" width="130px">
@@ -8,14 +8,14 @@
       </button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <!-- Left Side Of Navbar -->
+          
           <ul class="navbar-nav mr-auto">
 
           </ul>
 
-          <!-- Right Side Of Navbar -->
+          
           <ul class="navbar-nav ml-auto">
-              <!-- Authentication Links -->
+              
               @guest
                   <li class="nav-item">
                       <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
